@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The Project Challenge](#the-project-challenge)
-  - [Project Screen shots](#screenshots)
 - [My process used for creation](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,12 +22,6 @@ ALL Users clicking on this page should be able to:
 1) View the overall and optimal layout for the site depending on their device's screen size ie desktop and mobilephone
 2) See how some elements on the page change when they are hovered
 
-### Project screen shots
-### Mobile
-![MOBILE SCREENSHOT](images\mobile-screenshot.png.png)
-
-### Desktop
-![Desktop SCREENSHOT](images\desktop-screenshot.png.png)
 
 
 ## My process used for creation
