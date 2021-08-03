@@ -23,6 +23,9 @@ ALL Users clicking on this page should be able to:
 1) View the overall and optimal layout for the site depending on their device's screen size ie desktop and mobilephone
 2) See how some elements on the page change when they are hovered
 
+
+The live link to this website is  https://wemmywangari.github.io/Clipboard-Landing-Page/
+
 ### Project screen shots
 ### Mobile
 ![MOBILE SCREENSHOT](images\mobile-screenshot.png.png)
