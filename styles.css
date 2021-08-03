@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Bai Jamjuree';
+    margin: 0;
+}
+
+
+h1,h4{
+    color: #4C545D;
+}
+
+h4:hover,
+h4:focus{
+    color: #2AB8A0;
+}
+
+p{
+    color: #9FABB2;
+    font-size: 16px;
+   
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+.container{
+    margin: 0;
+    width: 95%;
+}
+
+
+
+header{
+    background-image: url("clipboard-landing-page/images/bg-header-mobile.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top: 100px;
+   
+}
+
+.header-icon img{
+     
+     text-align: center;
+}
+
+.title{
+    margin-top: -10px;
+    font-size: 36px;
+
+}
+
+.button{
+   text-decoration: none;
+   border: 2px solid ;
+   border-radius: 25px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+   display: block;
+   margin: 20px;
+   font-size: 17px;
+   font-weight: bold;
+}
+
+
+.button-ios{
+    background-color: #2AB8A0;
+    color: white;
+    margin-top: 40px;
+   
+}
+
+
+.button-ios:hover,
+.button-ios:focus{
+    opacity: 0.7;
+}
+
+.button-mac{
+    background-color: #6173FF;
+    color: white;
+    margin-bottom: 120px;
+}
+
+.button-mac:hover,
+.button-mac:focus{
+    opacity: 0.7;
+}
+
+
+@media only screen and (min-width:800px){
+    .button{
+        display: inline-block;
+    }
+    .title{
+        font-size: 50px;
+    }
+    p{
+        font-size: 18px;
+    }
+    .subtopic{
+        font-size: 36px;
+    }
+    header{
+        background-image: url("clipboard-landing-page/images/bg-header-desktop.png");
+        
+    
+    }
+
+}
+
+.track{
+    padding-bottom: 60px;
+}
+
+.snippets{
+    padding-bottom: 90px;
+}
+.computer{
+    max-width: 100%;
+    height: auto;
+
+}
+.access{
+    padding-bottom: 75px;
+}
+
+.devices-image{
+    max-width: 100%;
+    height: auto;
+    padding-top: 80px;
+}
+
+.workflow{
+    padding-bottom: 60px;
+}
+
+@media only screen and (min-width:800px){
+    .snippets{
+        display: flex;
+    }
+    .cols{
+        text-align: left;
+        margin-left: 100px;
+    }
+    .col-1{
+        display: inline-block;
+        margin: 5px;
+        margin-bottom: 150px;
+    }
+}
+
+.logos{
+    display:block;
+    margin: 105px;
+
+}
+
+
+@media only screen and (min-width:800px){
+    .logos{
+        display: inline-block;
+        margin: 50px;
+        width: 160px;
+    }
+
+}
+
+.clipboard{
+    margin-top: 150px;
+    margin-bottom: 110px;
+}
+
+
+
+footer{
+    background: #F6F5F5;
+    
+}
+
+.footer-logo{
+    width: 70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+  
+}
+.icons{
+    margin: 30px;
+    padding: 1px;
+}
+.icons:hover{
+    background-color: #2AB8A0;
+}
+
+
+@media only screen and (min-width:800px){
+    footer{
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
